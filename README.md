@@ -7,7 +7,7 @@ y comprueban que git esté correctamente instalado con el siguiente comando
 
 ` git --version `
 
-Podemos inciar accediendo a la ayuda de git con el siguiente comando:
+Podemos acceder a la ayuda de git con el siguiente comando:
 
-` git --help `
+` git help `
 
