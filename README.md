@@ -42,8 +42,8 @@ Se muestran las configuraciones globales dentro de un editor de texto
 ### Lista de comandos
 
 - ` git init ` Inicializa un repositorio git en la carpeta activa al ejecutar el comando
-  -  En la carpeta activa se crea un carpeta oculta con nombre .git y es donde git gestiona toda su configuración.
-  -  Esa carpeta no se puede borrar ya que se perdería todo el historial y configuraciones.
+  -  En la carpeta activa se crea un carpeta oculta con nombre .git
+  -  Esa carpeta **no se puede borrar** ya que se perdería todo el historial y configuraciones.
 
 
   
