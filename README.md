@@ -68,9 +68,8 @@ Se muestran las configuraciones globales dentro de un editor de texto
     - Se puede regresar a cada uno de los puntos de commit en cualquier momento
 
 - ` git config core.autocrlf true `
-    - Configura el fin de línea automatico en diferentes sistemas operativos
+    - Configura el caracter de fin de línea automatico para diferentes sistemas operativos
     - Este aviso que se muestra al detectar que se está dando esta combinación de sistemas
-    - Al usar este comando se realiza la configuración para evitar errores
 
 - ` git log ` Muestra el detalle para cada commit incluyendo: 
     - Fecha y hora de realizado
