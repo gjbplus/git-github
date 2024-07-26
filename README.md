@@ -63,20 +63,20 @@ Se muestran las configuraciones globales dentro de un editor de texto
     - -m " descripcion " es la forma de agregar la descripción de lo que incluye ese commit
     - Es recomendable incluir la descripción adecuada a los cambios realizados
     - No es recomendado hacer commit sin una descripción
-    - Lugo de hacer commit podemos ver su estado con el comando ` git status `
-    - Se recomienda hacer un commit luego de terminar un cambio o funcionalidad importante
+    - Luego de hacer commit podemos ver su estado con el comando ` git status `
+    - Se recomienda hacer un commit al terminar un cambio o funcionalidad importante
     - Se puede regresar a cada uno de los puntos de commit en cualquier momento
- 
-  ` git config core.autocrlf true ` 
-    - Se utiliza para configurar el fin de línea automatico en diferentes sistemas operativos
+
+- ` git config core.autocrlf true `
+    - Configura el fin de línea automatico en diferentes sistemas operativos
     - Este aviso que se muestra al detectar que se está dando esta combinación de sistemas
     - Al usar este comando se realiza la configuración para evitar errores
 
-  ` git log ` Muestra en registro de los diferentes commits
-    - Incluye detalles de fecha y hora de realizado
+- ` git log ` Muestra el detalle para cada commit incluyendo: 
+    - Fecha y hora de realizado
     - Autor del commit
     - Rama en la que se encuentra
-    - Puede incluir mas detalles segun configuraciónes especificas para el comando
+    - Puede incluir mas detalles
 
 
   
